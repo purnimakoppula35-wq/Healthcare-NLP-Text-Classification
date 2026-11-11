@@ -1,0 +1,101 @@
+category|text
+Appointment|I want to book an appointment with a doctor.
+Appointment|Can I schedule a consultation for tomorrow?
+Appointment|Please help me reschedule my hospital appointment.
+Appointment|I need to cancel my clinic appointment.
+Appointment|What time is my doctor's appointment?
+Appointment|I would like to meet a specialist next week.
+Appointment|Is there an available slot for a medical consultation?
+Appointment|Please confirm my appointment at the hospital.
+Appointment|I need to change the date of my doctor visit.
+Appointment|How can I register for an appointment?
+Appointment|Can I get an appointment with the physician today?
+Appointment|I want to book a follow up visit.
+Appointment|Please tell me the clinic consultation timings.
+Appointment|I need to make an appointment for a checkup.
+Appointment|Can you help me schedule a hospital visit?
+Appointment|My appointment confirmation has not arrived.
+Appointment|I want to postpone my doctor's appointment.
+Appointment|Is the doctor available for a consultation on Monday?
+Appointment|Please book a slot for a health checkup.
+Appointment|How do I cancel my scheduled consultation?
+Symptoms|I have a fever and headache since yesterday.
+Symptoms|I am experiencing a sore throat and cough.
+Symptoms|My stomach hurts after eating food.
+Symptoms|I have been feeling dizzy this morning.
+Symptoms|My throat is painful when I swallow.
+Symptoms|I am experiencing body pain and tiredness.
+Symptoms|I have a runny nose and sneezing.
+Symptoms|My head has been aching for two days.
+Symptoms|I feel nauseous and have stomach discomfort.
+Symptoms|I have a persistent cough.
+Symptoms|My back feels painful after sitting.
+Symptoms|I am experiencing itching on my skin.
+Symptoms|I have a mild fever and chills.
+Symptoms|My eyes are red and feel irritated.
+Symptoms|I feel weak and tired throughout the day.
+Symptoms|I have pain in my throat and a dry cough.
+Symptoms|My stomach feels bloated.
+Symptoms|I am experiencing a headache and fatigue.
+Symptoms|I have noticed swelling around my ankle.
+Symptoms|I feel discomfort in my chest area.
+Medicine|I need information about my prescribed medicine.
+Medicine|What is the timing written on my medicine label?
+Medicine|I want to know the name of this tablet.
+Medicine|Can you explain the instructions on my prescription?
+Medicine|I need to ask about my medication schedule.
+Medicine|Where can I find the expiry date on this medicine?
+Medicine|I have a question about my prescribed tablets.
+Medicine|Please help me understand my medicine label.
+Medicine|I want to check the medicine name in my prescription.
+Medicine|What does this prescription say about dosage?
+Medicine|I need information about the medicine given by my doctor.
+Medicine|Can you help me read the medication instructions?
+Medicine|I want to know whether this medicine is prescribed.
+Medicine|My prescription contains two medicine names.
+Medicine|Where is the batch number printed on this medicine?
+Medicine|I need to clarify my medication instructions with the pharmacist.
+Medicine|Please explain the abbreviations on my prescription.
+Medicine|I want to check the expiry information of my tablets.
+Medicine|Can I get a copy of my medicine prescription?
+Medicine|I have a question about the medicine listed by my doctor.
+Reports|I want to check my blood test report.
+Reports|Where can I download my laboratory results?
+Reports|My medical report is not available online.
+Reports|Please help me view my scan report.
+Reports|I need a copy of my diagnostic test results.
+Reports|When will my blood report be ready?
+Reports|I want to upload my laboratory report.
+Reports|How can I access my health test report?
+Reports|My X ray report has been uploaded.
+Reports|Please send me the link to my test results.
+Reports|I need to print my medical report.
+Reports|Can I check the status of my lab report?
+Reports|My diagnostic report is missing from the portal.
+Reports|I want to download the urine test results.
+Reports|Where can I collect my scan results?
+Reports|Please check whether my report is ready.
+Reports|I need to view my recent laboratory test.
+Reports|My health report is showing an error.
+Reports|Can the hospital email my test report?
+Reports|I want to access my previous blood test results.
+General Health|I want to learn about healthy daily habits.
+General Health|Please share general wellness information.
+General Health|What are some ways to maintain good health?
+General Health|I am looking for information about balanced nutrition.
+General Health|How can I improve my daily health routine?
+General Health|Tell me about the importance of regular exercise.
+General Health|I want general information about personal hygiene.
+General Health|Please explain why drinking enough water is important.
+General Health|I need tips for maintaining a healthy lifestyle.
+General Health|What does preventive healthcare mean?
+General Health|I want to learn about healthy sleep habits.
+General Health|Please provide information about wellness activities.
+General Health|How can people maintain general fitness?
+General Health|I am interested in learning about nutrition basics.
+General Health|Tell me about routine health checkups.
+General Health|I want to understand the importance of handwashing.
+General Health|Please share general tips for staying healthy.
+General Health|What are healthy habits for everyday life?
+General Health|I need basic information about physical activity.
+General Health|Explain the meaning of preventive health care.
